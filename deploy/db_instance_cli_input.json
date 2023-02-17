@@ -1,0 +1,12 @@
+{
+    "DBName": "houseprices",
+    "DBInstanceIdentifier": "houseprices",
+    "AllocatedStorage": 20,
+    "DBInstanceClass": "db.t3.micro",
+    "Engine": "mysql",
+    "MasterUsername": "houseprices",
+    "MasterUserPassword": "houseprices",
+    "Port": 3306,
+    "EngineVersion": "8.0.28",
+    "StorageType": "gp2"
+}

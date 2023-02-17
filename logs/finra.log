@@ -1,0 +1,466 @@
+Starting Scraping : Fincaraiz ... 
+
+20125 Records from <Fincaraiz>
+75021 Records from other sources
+Total-----------
+95146 Records
+5805 codes Duplicated
+14320 codes Stuck
+[0/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-galeon/buenaventura/6776520
+Appending data ... Data Successfully appended [OK]
+[1/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/pance/cali/7702645
+Appending data ... Data Successfully appended [OK]
+[2/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/union-de-vivienda/buenaventura/7758993
+Appending data ... Data Successfully appended [FAILURE]
+[3/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bosque/otros-municipios/6803862
+Appending data ... Data Successfully appended [OK]
+[4/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudadela-colpuertos/buenaventura/7832298
+Appending data ... Data Successfully appended [OK]
+[5/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-modelo/cali/5239185
+Appending data ... Data Successfully appended [OK]
+[6/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bellavista/buenaventura/7827750
+Appending data ... Data Successfully appended [FAILURE]
+[7/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/cristal/buenaventura/7591567
+Appending data ... Data Successfully appended [OK]
+[8/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/san-pablo-via-a-buenaventura/buenaventura/7195390
+Appending data ... Data Successfully appended [OK]
+[9/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-victoria/candelaria/7516501
+Appending data ... Data Successfully appended [OK]
+[10/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/transformacion/buenaventura/7596662
+Appending data ... Data Successfully appended [OK]
+[11/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-jardin/buenaventura/6480271
+Appending data ... Data Successfully appended [OK]
+[12/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/river-palms/buenavista/barranquilla/5910260
+Appending data ... Data Successfully appended [FAILURE]
+[13/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/5422815
+Appending data ... Data Successfully appended [OK]
+[14/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/7835224
+Appending data ... Data Successfully appended [FAILURE]
+[15/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/golf-79-luxury-home/el-golf/barranquilla/7100709
+Appending data ... Data Successfully appended [FAILURE]
+[16/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/altos-del-limon/barranquilla/7097671
+Appending data ... Data Successfully appended [OK]
+[17/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-campestre/puerto-colombia/7430081
+Appending data ... Data Successfully appended [OK]
+[18/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/7014826
+Appending data ... Data Successfully appended [OK]
+[19/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/zafiro/alameda-del-rio/barranquilla/5438273
+Appending data ... Data Successfully appended [FAILURE]
+[20/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/las-delicias/barranquilla/7383529
+Appending data ... Data Successfully appended [OK]
+[21/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/7333339
+Appending data ... Data Successfully appended [OK]
+[22/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-del-este/barranquilla/5713677
+Appending data ... Data Successfully appended [OK]
+[23/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-jardin/barranquilla/7501917
+Appending data ... Data Successfully appended [OK]
+[24/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/el-alba-en-mallorquin/mallorquin/barranquilla/7055808
+Appending data ... Data Successfully appended [FAILURE]
+[25/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-limoncito/barranquilla/7696946
+Appending data ... Data Successfully appended [OK]
+[26/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/5031002
+Appending data ... Data Successfully appended [OK]
+[27/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-campestre/puerto-colombia/7710607
+Appending data ... Data Successfully appended [OK]
+[28/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-cumbre/barranquilla/7869790
+Appending data ... Data Successfully appended [OK]
+[29/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/las-colinas/barranquilla/7753557
+Appending data ... Data Successfully appended [OK]
+[30/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/palmar-de-la-cienaga/vizcaya/barranquilla/6911253
+Appending data ... Data Successfully appended [FAILURE]
+[31/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/altos-de-riomar/barranquilla/7834133
+Appending data ... Data Successfully appended [OK]
+[32/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/boston/barranquilla/7021212
+Appending data ... Data Successfully appended [OK]
+[33/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/boston/barranquilla/7619947
+Appending data ... Data Successfully appended [OK]
+[34/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-castellana/barranquilla/7810064
+Appending data ... Data Successfully appended [OK]
+[35/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/altos-del-limon/barranquilla/7596319
+Appending data ... Data Successfully appended [OK]
+[36/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/napoli/miramar/barranquilla/4377455
+Appending data ... Data Successfully appended [FAILURE]
+[37/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/golf/barranquilla/6876983
+Appending data ... Data Successfully appended [OK]
+[38/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/7555293
+Appending data ... Data Successfully appended [OK]
+[39/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-tabor/barranquilla/7849591
+Appending data ... Data Successfully appended [OK]
+[40/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-jardin/barranquilla/7682732
+Appending data ... Data Successfully appended [OK]
+[41/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/san-salvador/barranquilla/7072124
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Fincaraiz ... 
+
+20125 Records from <Fincaraiz>
+75021 Records from other sources
+Total-----------
+95146 Records
+5805 codes Duplicated
+14320 codes Stuck
+[0/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-galeon/buenaventura/6776520
+Appending data ... Data Successfully appended [OK]
+[1/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/pance/cali/7702645
+Appending data ... Data Successfully appended [OK]
+[2/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/union-de-vivienda/buenaventura/7758993
+Appending data ... Data Successfully appended [FAILURE]
+[3/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bosque/otros-municipios/6803862
+Appending data ... Data Successfully appended [OK]
+[4/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudadela-colpuertos/buenaventura/7832298
+Appending data ... Data Successfully appended [OK]
+[5/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-modelo/cali/5239185
+Appending data ... Data Successfully appended [OK]
+[6/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bellavista/buenaventura/7827750
+Appending data ... Data Successfully appended [FAILURE]
+[7/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/cristal/buenaventura/7591567
+Appending data ... Data Successfully appended [OK]
+[8/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/san-pablo-via-a-buenaventura/buenaventura/7195390
+Appending data ... Data Successfully appended [OK]
+[9/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-victoria/candelaria/7516501
+Appending data ... Data Successfully appended [OK]
+[10/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/transformacion/buenaventura/7596662
+Appending data ... Data Successfully appended [OK]
+[11/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-jardin/buenaventura/6480271
+Appending data ... Data Successfully appended [OK]
+[12/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/river-palms/buenavista/barranquilla/5910260
+Appending data ... Data Successfully appended [FAILURE]
+[13/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/5422815
+Appending data ... Data Successfully appended [OK]
+[14/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/7835224
+Appending data ... Data Successfully appended [FAILURE]
+[15/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/golf-79-luxury-home/el-golf/barranquilla/7100709
+Appending data ... Data Successfully appended [FAILURE]
+[16/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/altos-del-limon/barranquilla/7097671
+Appending data ... Data Successfully appended [OK]
+[17/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-campestre/puerto-colombia/7430081
+Appending data ... Data Successfully appended [OK]
+[18/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/7014826
+Appending data ... Data Successfully appended [OK]
+[19/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/zafiro/alameda-del-rio/barranquilla/5438273
+Appending data ... Data Successfully appended [FAILURE]
+[20/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/las-delicias/barranquilla/7383529
+Appending data ... Data Successfully appended [OK]
+[21/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/7333339
+Appending data ... Data Successfully appended [OK]
+[22/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-del-este/barranquilla/5713677
+Appending data ... Data Successfully appended [OK]
+[23/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-jardin/barranquilla/7501917
+Appending data ... Data Successfully appended [OK]
+[24/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/el-alba-en-mallorquin/mallorquin/barranquilla/7055808
+Appending data ... Data Successfully appended [FAILURE]
+[25/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-limoncito/barranquilla/7696946
+Appending data ... Data Successfully appended [OK]
+[26/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/5031002
+Appending data ... Data Successfully appended [OK]
+[27/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-campestre/puerto-colombia/7710607
+Appending data ... Data Successfully appended [OK]
+[28/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-cumbre/barranquilla/7869790
+Appending data ... Data Successfully appended [OK]
+[29/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/las-colinas/barranquilla/7753557
+Appending data ... Data Successfully appended [OK]
+[30/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/palmar-de-la-cienaga/vizcaya/barranquilla/6911253
+Appending data ... Data Successfully appended [FAILURE]
+[31/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/altos-de-riomar/barranquilla/7834133
+Appending data ... Data Successfully appended [OK]
+[32/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/boston/barranquilla/7021212
+Appending data ... Data Successfully appended [OK]
+[33/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/boston/barranquilla/7619947
+Appending data ... Data Successfully appended [OK]
+[34/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-castellana/barranquilla/7810064
+Appending data ... Data Successfully appended [OK]
+[35/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/altos-del-limon/barranquilla/7596319
+Appending data ... Data Successfully appended [OK]
+[36/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/napoli/miramar/barranquilla/4377455
+Appending data ... Data Successfully appended [FAILURE]
+[37/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/golf/barranquilla/6876983
+Appending data ... Data Successfully appended [OK]
+[38/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/7555293
+Appending data ... Data Successfully appended [OK]
+[39/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-tabor/barranquilla/7849591
+Appending data ... Data Successfully appended [OK]
+[40/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-jardin/barranquilla/7682732
+Appending data ... Data Successfully appended [OK]
+[41/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/san-salvador/barranquilla/7072124
+Appending data ... Data Successfully appended [OK]
+[42/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/miramar/barranquilla/7800399
+Appending data ... Data Successfully appended [OK]
+[43/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-tabor/barranquilla/7324448
+Appending data ... Data Successfully appended [OK]
+[44/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/7238312
+Appending data ... Data Successfully appended [OK]
+[45/14320] [ERROR] link:https://fincaraiz.com.co/proyecto-de-vivienda/halcon/alameda-del-rio/barranquilla/7565046 ... skiped
+Starting Scraping : Fincaraiz ... 
+
+20125 Records from <Fincaraiz>
+75021 Records from other sources
+Total-----------
+95146 Records
+5805 codes Duplicated
+14320 codes Stuck
+[0/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-galeon/buenaventura/6776520
+Appending data ... Data Successfully appended [OK]
+[1/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/pance/cali/7702645
+Appending data ... Data Successfully appended [OK]
+[2/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/union-de-vivienda/buenaventura/7758993
+Appending data ... Data Successfully appended [FAILURE]
+[3/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bosque/otros-municipios/6803862
+Appending data ... Data Successfully appended [OK]
+[4/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudadela-colpuertos/buenaventura/7832298
+Appending data ... Data Successfully appended [OK]
+[5/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-modelo/cali/5239185
+Appending data ... Data Successfully appended [OK]
+[6/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bellavista/buenaventura/7827750
+Appending data ... Data Successfully appended [FAILURE]
+[7/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/cristal/buenaventura/7591567
+Appending data ... Data Successfully appended [OK]
+[8/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/san-pablo-via-a-buenaventura/buenaventura/7195390
+Appending data ... Data Successfully appended [OK]
+[9/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-victoria/candelaria/7516501
+Appending data ... Data Successfully appended [OK]
+[10/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/transformacion/buenaventura/7596662
+Appending data ... Data Successfully appended [OK]
+[11/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-jardin/buenaventura/6480271
+Appending data ... Data Successfully appended [OK]
+[12/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/river-palms/buenavista/barranquilla/5910260
+Appending data ... Data Successfully appended [FAILURE]
+[13/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/5422815
+Appending data ... Data Successfully appended [OK]
+[14/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/7835224
+Appending data ... Data Successfully appended [FAILURE]
+[15/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/golf-79-luxury-home/el-golf/barranquilla/7100709
+Appending data ... Data Successfully appended [FAILURE]
+Starting Scraping : Fincaraiz ... 
+
+20125 Records from <Fincaraiz>
+75021 Records from other sources
+Total-----------
+95146 Records
+5805 codes Duplicated
+14320 codes Stuck
+[0/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-galeon/buenaventura/6776520
+Appending data ... Data Successfully appended [OK]
+[1/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/pance/cali/7702645
+Appending data ... Data Successfully appended [OK]
+[2/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/union-de-vivienda/buenaventura/7758993
+Appending data ... Data Successfully appended [FAILURE]
+[3/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bosque/otros-municipios/6803862
+Appending data ... Data Successfully appended [OK]
+[4/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudadela-colpuertos/buenaventura/7832298
+Appending data ... Data Successfully appended [OK]
+[5/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-modelo/cali/5239185
+Appending data ... Data Successfully appended [OK]
+[6/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bellavista/buenaventura/7827750
+Appending data ... Data Successfully appended [FAILURE]
+[7/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/cristal/buenaventura/7591567
+Appending data ... Data Successfully appended [OK]
+[8/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/san-pablo-via-a-buenaventura/buenaventura/7195390
+Appending data ... Data Successfully appended [OK]
+[9/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-victoria/candelaria/7516501
+Appending data ... Data Successfully appended [OK]
+[10/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/transformacion/buenaventura/7596662
+Appending data ... Data Successfully appended [OK]
+[11/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-jardin/buenaventura/6480271
+Appending data ... Data Successfully appended [OK]
+[12/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/river-palms/buenavista/barranquilla/5910260
+Appending data ... Data Successfully appended [FAILURE]
+[13/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/5422815
+Appending data ... Data Successfully appended [OK]
+[14/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/7835224
+Appending data ... Data Successfully appended [FAILURE]
+[15/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/golf-79-luxury-home/el-golf/barranquilla/7100709
+Appending data ... Data Successfully appended [FAILURE]
+[16/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/altos-del-limon/barranquilla/7097671
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Fincaraiz ... 
+
+20125 Records from <Fincaraiz>
+75021 Records from other sources
+Total-----------
+95146 Records
+5805 codes Duplicated
+14320 codes Stuck
+[0/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-galeon/buenaventura/6776520
+Appending data ... Data Successfully appended [OK]
+[1/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/pance/cali/7702645
+Appending data ... Data Successfully appended [OK]
+[2/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/union-de-vivienda/buenaventura/7758993
+Appending data ... Data Successfully appended [FAILURE]
+[3/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bosque/otros-municipios/6803862
+Appending data ... Data Successfully appended [OK]
+[4/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudadela-colpuertos/buenaventura/7832298
+Appending data ... Data Successfully appended [OK]
+[5/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-modelo/cali/5239185
+Appending data ... Data Successfully appended [OK]
+[6/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bellavista/buenaventura/7827750
+Appending data ... Data Successfully appended [FAILURE]
+[7/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/cristal/buenaventura/7591567
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Fincaraiz ... 
+
+20125 Records from <Fincaraiz>
+75021 Records from other sources
+Total-----------
+95146 Records
+5805 codes Duplicated
+14320 codes Stuck
+[0/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-galeon/buenaventura/6776520
+Appending data ... Data Successfully appended [OK]
+[1/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/pance/cali/7702645
+Appending data ... Data Successfully appended [OK]
+[2/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/union-de-vivienda/buenaventura/7758993
+Appending data ... Data Successfully appended [FAILURE]
+[3/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bosque/otros-municipios/6803862
+Appending data ... Data Successfully appended [OK]
+[4/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudadela-colpuertos/buenaventura/7832298
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Fincaraiz ... 
+
+20125 Records from <Fincaraiz>
+75021 Records from other sources
+Total-----------
+95146 Records
+5805 codes Duplicated
+14320 codes Stuck
+[0/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-galeon/buenaventura/6776520
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Fincaraiz ... 
+
+20125 Records from <Fincaraiz>
+75021 Records from other sources
+Total-----------
+95146 Records
+5805 codes Duplicated
+14320 codes Stuck
+[0/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-galeon/buenaventura/6776520
+Appending data ... Data Successfully appended [OK]
+[1/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/pance/cali/7702645
+Appending data ... Data Successfully appended [OK]
+[2/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/union-de-vivienda/buenaventura/7758993
+Appending data ... Data Successfully appended [FAILURE]
+[3/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bosque/otros-municipios/6803862
+Appending data ... Data Successfully appended [OK]
+[4/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudadela-colpuertos/buenaventura/7832298
+Appending data ... Data Successfully appended [OK]
+[5/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-modelo/cali/5239185
+Appending data ... Data Successfully appended [OK]
+[6/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bellavista/buenaventura/7827750
+Appending data ... Data Successfully appended [FAILURE]
+[7/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/cristal/buenaventura/7591567
+Appending data ... Data Successfully appended [OK]
+[8/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/san-pablo-via-a-buenaventura/buenaventura/7195390
+Appending data ... Data Successfully appended [OK]
+[9/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-victoria/candelaria/7516501
+Appending data ... Data Successfully appended [OK]
+[10/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/transformacion/buenaventura/7596662
+Appending data ... Data Successfully appended [OK]
+[11/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-jardin/buenaventura/6480271
+Appending data ... Data Successfully appended [OK]
+[12/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/river-palms/buenavista/barranquilla/5910260
+Appending data ... Data Successfully appended [FAILURE]
+[13/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/5422815
+Appending data ... Data Successfully appended [OK]
+[14/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/7835224
+Appending data ... Data Successfully appended [FAILURE]
+[15/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/golf-79-luxury-home/el-golf/barranquilla/7100709
+Appending data ... Data Successfully appended [FAILURE]
+[16/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/altos-del-limon/barranquilla/7097671
+Appending data ... Data Successfully appended [OK]
+[17/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-campestre/puerto-colombia/7430081
+Appending data ... Data Successfully appended [OK]
+[18/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/7014826
+Appending data ... Data Successfully appended [OK]
+[19/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/zafiro/alameda-del-rio/barranquilla/5438273
+Appending data ... Data Successfully appended [FAILURE]
+[20/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/las-delicias/barranquilla/7383529
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Fincaraiz ... 
+
+20125 Records from <Fincaraiz>
+75021 Records from other sources
+Total-----------
+95146 Records
+5805 codes Duplicated
+14320 codes Stuck
+[0/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-galeon/buenaventura/6776520
+Appending data ... Data Successfully appended [OK]
+[1/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/pance/cali/7702645
+Appending data ... Data Successfully appended [OK]
+[2/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/union-de-vivienda/buenaventura/7758993
+Appending data ... Data Successfully appended [FAILURE]
+[3/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bosque/otros-municipios/6803862
+Appending data ... Data Successfully appended [OK]
+[4/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudadela-colpuertos/buenaventura/7832298
+Appending data ... Data Successfully appended [OK]
+[5/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-modelo/cali/5239185
+Appending data ... Data Successfully appended [OK]
+[6/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/bellavista/buenaventura/7827750
+Appending data ... Data Successfully appended [FAILURE]
+[7/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/cristal/buenaventura/7591567
+Appending data ... Data Successfully appended [OK]
+[8/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/san-pablo-via-a-buenaventura/buenaventura/7195390
+Appending data ... Data Successfully appended [OK]
+[9/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-victoria/candelaria/7516501
+Appending data ... Data Successfully appended [OK]
+[10/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/transformacion/buenaventura/7596662
+Appending data ... Data Successfully appended [OK]
+[11/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-jardin/buenaventura/6480271
+Appending data ... Data Successfully appended [OK]
+[12/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/river-palms/buenavista/barranquilla/5910260
+Appending data ... Data Successfully appended [FAILURE]
+[13/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/5422815
+Appending data ... Data Successfully appended [OK]
+[14/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/7835224
+Appending data ... Data Successfully appended [FAILURE]
+[15/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/golf-79-luxury-home/el-golf/barranquilla/7100709
+Appending data ... Data Successfully appended [FAILURE]
+[16/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/altos-del-limon/barranquilla/7097671
+Appending data ... Data Successfully appended [OK]
+[17/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-campestre/puerto-colombia/7430081
+Appending data ... Data Successfully appended [OK]
+[18/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/7014826
+Appending data ... Data Successfully appended [OK]
+[19/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/zafiro/alameda-del-rio/barranquilla/5438273
+Appending data ... Data Successfully appended [FAILURE]
+[20/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/las-delicias/barranquilla/7383529
+Appending data ... Data Successfully appended [OK]
+[21/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/7333339
+Appending data ... Data Successfully appended [OK]
+[22/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-del-este/barranquilla/5713677
+Appending data ... Data Successfully appended [OK]
+[23/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-jardin/barranquilla/7501917
+Appending data ... Data Successfully appended [OK]
+[24/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/el-alba-en-mallorquin/mallorquin/barranquilla/7055808
+Appending data ... Data Successfully appended [FAILURE]
+[25/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-limoncito/barranquilla/7696946
+Appending data ... Data Successfully appended [OK]
+[26/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/paraiso/barranquilla/5031002
+Appending data ... Data Successfully appended [OK]
+[27/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-campestre/puerto-colombia/7710607
+Appending data ... Data Successfully appended [OK]
+[28/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-cumbre/barranquilla/7869790
+Appending data ... Data Successfully appended [OK]
+[29/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/las-colinas/barranquilla/7753557
+Appending data ... Data Successfully appended [OK]
+[30/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/palmar-de-la-cienaga/vizcaya/barranquilla/6911253
+Appending data ... Data Successfully appended [FAILURE]
+[31/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/altos-de-riomar/barranquilla/7834133
+Appending data ... Data Successfully appended [OK]
+[32/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/boston/barranquilla/7021212
+Appending data ... Data Successfully appended [OK]
+[33/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/boston/barranquilla/7619947
+Appending data ... Data Successfully appended [OK]
+[34/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/la-castellana/barranquilla/7810064
+Appending data ... Data Successfully appended [OK]
+[35/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/altos-del-limon/barranquilla/7596319
+Appending data ... Data Successfully appended [OK]
+[36/14320] [OK] link:https://fincaraiz.com.co/proyecto-de-vivienda/napoli/miramar/barranquilla/4377455
+Appending data ... Data Successfully appended [FAILURE]
+[37/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/golf/barranquilla/6876983
+Appending data ... Data Successfully appended [OK]
+[38/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/villa-santos/barranquilla/7555293
+Appending data ... Data Successfully appended [OK]
+[39/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/el-tabor/barranquilla/7849591
+Appending data ... Data Successfully appended [OK]
+[40/14320] [OK] link:https://fincaraiz.com.co/inmueble/casa-en-venta/ciudad-jardin/barranquilla/7682732
+Appending data ... Data Successfully appended [OK]
+[41/14320] [ERROR] link:https://fincaraiz.com.co/inmueble/casa-en-venta/san-salvador/barranquilla/7072124 ... skiped

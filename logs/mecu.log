@@ -1,0 +1,447 @@
+Starting Scraping : Metro Cuadrado ... 
+
+60723 Records from <MetroCuadrado>
+34423 Records from other sources
+Total-----------
+95146 Records
+2 codes Duplicated
+60721 codes Stuck
+[0/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-naval-5-habitaciones-5-banos-2-garajes/897-1023025
+Appending data ... Data Successfully appended [OK]
+[1/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-antonio-narino-5-habitaciones-2-banos/835-M3396903
+Appending data ... Data Successfully appended [OK]
+[2/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-bosque-municipal-5-habitaciones-3-banos-1-garajes/10151-M3230316
+Appending data ... Data Successfully appended [OK]
+[3/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-santa-fe-4-habitaciones-2-banos-4-garajes/3229-M2976134
+Appending data ... Data Successfully appended [OK]
+[4/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-la-dignidad-5-habitaciones-3-banos/MC4051631
+Appending data ... Data Successfully appended [OK]
+[5/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-5-habitaciones-3-banos-1-garajes/12779-M4013082
+Appending data ... Data Successfully appended [OK]
+[6/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-4-habitaciones-2-banos-4-garajes/13156-M3334335
+Appending data ... Data Successfully appended [OK]
+[7/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-4-habitaciones-3-banos-2-garajes/10159-M3352730
+Appending data ... Data Successfully appended [OK]
+[8/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-modelo-4-habitaciones-3-banos-1-garajes/411-M3742299
+Appending data ... Data Successfully appended [OK]
+[9/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-santos-4-habitaciones-5-banos-4-garajes/12636-M2874168
+Appending data ... Data Successfully appended [OK]
+[10/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-altos-de-parque-3-habitaciones-4-banos-2-garajes/10365-M3613125
+Appending data ... Data Successfully appended [OK]
+[11/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-5-habitaciones-3-banos-4-garajes/12779-M4015974
+Appending data ... Data Successfully appended [OK]
+[12/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-recreo-3-habitaciones-3-banos-1-garajes/15249-M4007681
+Appending data ... Data Successfully appended [OK]
+[13/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-santos-4-habitaciones-4-banos-4-garajes/11069-M3555429
+Appending data ... Data Successfully appended [OK]
+[14/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-3-habitaciones-2-banos-2-garajes/12779-M4008556
+Appending data ... Data Successfully appended [OK]
+[15/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-nuevo-horizonte-3-habitaciones-2-banos-1-garajes/12779-M4009334
+Appending data ... Data Successfully appended [OK]
+[16/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-3-habitaciones-3-banos-1-garajes/11069-M3562079
+Appending data ... Data Successfully appended [OK]
+[17/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-campo-alegre-3-habitaciones-3-banos-1-garajes/11069-M3607827
+Appending data ... Data Successfully appended [OK]
+[18/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-bellavista-5-habitaciones-4-banos-2-garajes/10557-M3391885
+Appending data ... Data Successfully appended [OK]
+[19/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-paraiso-3-habitaciones-2-banos-1-garajes/12779-M3984453
+Appending data ... Data Successfully appended [OK]
+[20/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-5-habitaciones-2-banos-4-garajes/12636-M3560850
+Appending data ... Data Successfully appended [OK]
+[21/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-4-habitaciones-4-banos-1-garajes/13774-M3216866
+Appending data ... Data Successfully appended [OK]
+[22/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-conjunto-residencial-villa-campestre-3-habitaciones-4-banos-2-garajes/13296-M3412306
+Appending data ... Data Successfully appended [OK]
+[23/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-los-alpes-3-habitaciones-2-banos-1-garajes/12779-M4008820
+Appending data ... Data Successfully appended [OK]
+[24/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-silencio-3-habitaciones-3-banos-1-garajes/12779-M3358312
+Appending data ... Data Successfully appended [OK]
+[25/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-del-limon-3-habitaciones-4-banos-2-garajes/11069-M3670317
+Appending data ... Data Successfully appended [OK]
+[26/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-de-riomar-4-habitaciones-4-banos-2-garajes/12779-M3736101
+Appending data ... Data Successfully appended [OK]
+[27/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-conjunto-residencial-villa-campestre-4-habitaciones-3-banos-2-garajes/14162-M3577988
+Appending data ... Data Successfully appended [OK]
+[28/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-nuevo-horizonte-5-habitaciones-5-banos-4-garajes/12779-M2947218
+Appending data ... Data Successfully appended [OK]
+[29/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-balcones-de-villa-campestre-4-habitaciones-5-banos-4-garajes/13296-M3875458
+Appending data ... Data Successfully appended [OK]
+[30/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-balcones-de-villa-campestre-4-habitaciones-5-banos-1-garajes/11069-M4051423
+Appending data ... Data Successfully appended [OK]
+[31/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-san-jose-4-habitaciones-3-banos/12779-M2951411
+Appending data ... Data Successfully appended [OK]
+[32/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-los-alpes-5-habitaciones-5-banos-2-garajes/11069-M2772437
+Appending data ... Data Successfully appended [OK]
+[33/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-del-limon-5-habitaciones-5-banos-2-garajes/15241-M4008516
+Appending data ... Data Successfully appended [OK]
+[34/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-3-habitaciones-4-banos-4-garajes/130-1887
+Appending data ... Data Successfully appended [OK]
+[35/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-4-habitaciones-5-banos/130-3288
+Appending data ... Data Successfully appended [OK]
+[36/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-1-habitaciones/2969-3488
+Appending data ... Data Successfully appended [OK]
+[37/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-la-campina-1-habitaciones/130-4104
+Appending data ... Data Successfully appended [OK]
+[38/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-del-prado-1-habitaciones-2-garajes/2969-4209
+Appending data ... Data Successfully appended [OK]
+[39/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-3-habitaciones-3-banos-1-garajes/5410-M3726985
+Appending data ... Data Successfully appended [OK]
+[40/60721] [ERROR] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-altos-de-parque-3-habitaciones-5-banos-3-garajes/2398-M3524183 ... Skiped
+Starting Scraping : Metro Cuadrado ... 
+
+60723 Records from <MetroCuadrado>
+34423 Records from other sources
+Total-----------
+95146 Records
+2 codes Duplicated
+60721 codes Stuck
+[0/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-naval-5-habitaciones-5-banos-2-garajes/897-1023025
+Appending data ... Data Successfully appended [OK]
+[1/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-antonio-narino-5-habitaciones-2-banos/835-M3396903
+Appending data ... Data Successfully appended [OK]
+[2/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-bosque-municipal-5-habitaciones-3-banos-1-garajes/10151-M3230316
+Appending data ... Data Successfully appended [OK]
+[3/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-santa-fe-4-habitaciones-2-banos-4-garajes/3229-M2976134
+Appending data ... Data Successfully appended [OK]
+[4/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-la-dignidad-5-habitaciones-3-banos/MC4051631
+Appending data ... Data Successfully appended [OK]
+[5/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-5-habitaciones-3-banos-1-garajes/12779-M4013082
+Appending data ... Data Successfully appended [OK]
+[6/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-4-habitaciones-2-banos-4-garajes/13156-M3334335
+Appending data ... Data Successfully appended [OK]
+[7/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-4-habitaciones-3-banos-2-garajes/10159-M3352730
+Appending data ... Data Successfully appended [OK]
+[8/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-modelo-4-habitaciones-3-banos-1-garajes/411-M3742299
+Appending data ... Data Successfully appended [OK]
+[9/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-santos-4-habitaciones-5-banos-4-garajes/12636-M2874168
+Appending data ... Data Successfully appended [OK]
+[10/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-altos-de-parque-3-habitaciones-4-banos-2-garajes/10365-M3613125
+Appending data ... Data Successfully appended [OK]
+[11/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-5-habitaciones-3-banos-4-garajes/12779-M4015974
+Appending data ... Data Successfully appended [OK]
+[12/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-recreo-3-habitaciones-3-banos-1-garajes/15249-M4007681
+Appending data ... Data Successfully appended [OK]
+[13/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-santos-4-habitaciones-4-banos-4-garajes/11069-M3555429
+Appending data ... Data Successfully appended [OK]
+[14/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-3-habitaciones-2-banos-2-garajes/12779-M4008556
+Appending data ... Data Successfully appended [OK]
+[15/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-nuevo-horizonte-3-habitaciones-2-banos-1-garajes/12779-M4009334
+Appending data ... Data Successfully appended [OK]
+[16/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-3-habitaciones-3-banos-1-garajes/11069-M3562079
+Appending data ... Data Successfully appended [OK]
+[17/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-campo-alegre-3-habitaciones-3-banos-1-garajes/11069-M3607827
+Appending data ... Data Successfully appended [OK]
+[18/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-bellavista-5-habitaciones-4-banos-2-garajes/10557-M3391885
+Appending data ... Data Successfully appended [OK]
+[19/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-paraiso-3-habitaciones-2-banos-1-garajes/12779-M3984453
+Appending data ... Data Successfully appended [OK]
+[20/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-5-habitaciones-2-banos-4-garajes/12636-M3560850
+Appending data ... Data Successfully appended [OK]
+[21/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-4-habitaciones-4-banos-1-garajes/13774-M3216866
+Appending data ... Data Successfully appended [OK]
+[22/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-conjunto-residencial-villa-campestre-3-habitaciones-4-banos-2-garajes/13296-M3412306
+Appending data ... Data Successfully appended [OK]
+[23/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-los-alpes-3-habitaciones-2-banos-1-garajes/12779-M4008820
+Appending data ... Data Successfully appended [OK]
+[24/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-silencio-3-habitaciones-3-banos-1-garajes/12779-M3358312
+Appending data ... Data Successfully appended [OK]
+[25/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-del-limon-3-habitaciones-4-banos-2-garajes/11069-M3670317
+Appending data ... Data Successfully appended [OK]
+[26/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-de-riomar-4-habitaciones-4-banos-2-garajes/12779-M3736101
+Appending data ... Data Successfully appended [OK]
+[27/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-conjunto-residencial-villa-campestre-4-habitaciones-3-banos-2-garajes/14162-M3577988
+Appending data ... Data Successfully appended [OK]
+[28/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-nuevo-horizonte-5-habitaciones-5-banos-4-garajes/12779-M2947218
+Appending data ... Data Successfully appended [OK]
+[29/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-balcones-de-villa-campestre-4-habitaciones-5-banos-4-garajes/13296-M3875458
+Appending data ... Data Successfully appended [OK]
+[30/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-balcones-de-villa-campestre-4-habitaciones-5-banos-1-garajes/11069-M4051423
+Appending data ... Data Successfully appended [OK]
+[31/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-san-jose-4-habitaciones-3-banos/12779-M2951411
+Appending data ... Data Successfully appended [OK]
+[32/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-los-alpes-5-habitaciones-5-banos-2-garajes/11069-M2772437
+Appending data ... Data Successfully appended [OK]
+[33/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-del-limon-5-habitaciones-5-banos-2-garajes/15241-M4008516
+Appending data ... Data Successfully appended [OK]
+[34/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-3-habitaciones-4-banos-4-garajes/130-1887
+Appending data ... Data Successfully appended [OK]
+[35/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-4-habitaciones-5-banos/130-3288
+Appending data ... Data Successfully appended [OK]
+[36/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-1-habitaciones/2969-3488
+Appending data ... Data Successfully appended [OK]
+[37/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-la-campina-1-habitaciones/130-4104
+Appending data ... Data Successfully appended [OK]
+[38/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-del-prado-1-habitaciones-2-garajes/2969-4209
+Appending data ... Data Successfully appended [OK]
+[39/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-3-habitaciones-3-banos-1-garajes/5410-M3726985
+Appending data ... Data Successfully appended [OK]
+[40/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-altos-de-parque-3-habitaciones-5-banos-3-garajes/2398-M3524183
+Appending data ... Data Successfully appended [OK]
+[41/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-castellana-real-3-habitaciones-5-banos-2-garajes/10159-M3687351
+Appending data ... Data Successfully appended [OK]
+[42/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-la-cumbre-5-habitaciones-5-banos-3-garajes/2398-M3524989
+Appending data ... Data Successfully appended [OK]
+[43/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-country-3-habitaciones-3-banos-2-garajes/671-74313
+Appending data ... Data Successfully appended [OK]
+[44/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-cr.-villa-campestre-4-habitaciones-5-banos-4-garajes/671-M4060236
+Appending data ... Data Successfully appended [OK]
+[45/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-3-habitaciones-5-banos-2-garajes/2969-M3976879
+Appending data ... Data Successfully appended [OK]
+[46/60721] [ERROR] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-castellana-real-3-habitaciones-3-banos-2-garajes/715-M3645643 ... Skiped
+Starting Scraping : Metro Cuadrado ... 
+
+60723 Records from <MetroCuadrado>
+34423 Records from other sources
+Total-----------
+95146 Records
+2 codes Duplicated
+60721 codes Stuck
+[0/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-naval-5-habitaciones-5-banos-2-garajes/897-1023025
+Appending data ... Data Successfully appended [OK]
+[1/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-antonio-narino-5-habitaciones-2-banos/835-M3396903
+Appending data ... Data Successfully appended [OK]
+[2/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-bosque-municipal-5-habitaciones-3-banos-1-garajes/10151-M3230316
+Appending data ... Data Successfully appended [OK]
+[3/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-santa-fe-4-habitaciones-2-banos-4-garajes/3229-M2976134
+Appending data ... Data Successfully appended [OK]
+[4/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-la-dignidad-5-habitaciones-3-banos/MC4051631
+Appending data ... Data Successfully appended [OK]
+[5/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-5-habitaciones-3-banos-1-garajes/12779-M4013082
+Appending data ... Data Successfully appended [OK]
+[6/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-4-habitaciones-2-banos-4-garajes/13156-M3334335
+Appending data ... Data Successfully appended [OK]
+[7/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-4-habitaciones-3-banos-2-garajes/10159-M3352730
+Appending data ... Data Successfully appended [OK]
+[8/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-modelo-4-habitaciones-3-banos-1-garajes/411-M3742299
+Appending data ... Data Successfully appended [OK]
+[9/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-santos-4-habitaciones-5-banos-4-garajes/12636-M2874168
+Appending data ... Data Successfully appended [OK]
+[10/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-altos-de-parque-3-habitaciones-4-banos-2-garajes/10365-M3613125
+Appending data ... Data Successfully appended [OK]
+[11/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-5-habitaciones-3-banos-4-garajes/12779-M4015974
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Metro Cuadrado ... 
+
+60723 Records from <MetroCuadrado>
+34423 Records from other sources
+Total-----------
+95146 Records
+2 codes Duplicated
+60721 codes Stuck
+[0/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-naval-5-habitaciones-5-banos-2-garajes/897-1023025
+Appending data ... Data Successfully appended [OK]
+[1/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-antonio-narino-5-habitaciones-2-banos/835-M3396903
+Appending data ... Data Successfully appended [OK]
+[2/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-bosque-municipal-5-habitaciones-3-banos-1-garajes/10151-M3230316
+Appending data ... Data Successfully appended [OK]
+[3/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-santa-fe-4-habitaciones-2-banos-4-garajes/3229-M2976134
+Appending data ... Data Successfully appended [OK]
+[4/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-la-dignidad-5-habitaciones-3-banos/MC4051631
+Appending data ... Data Successfully appended [OK]
+[5/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-5-habitaciones-3-banos-1-garajes/12779-M4013082
+Appending data ... Data Successfully appended [OK]
+[6/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-4-habitaciones-2-banos-4-garajes/13156-M3334335
+Appending data ... Data Successfully appended [OK]
+[7/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-4-habitaciones-3-banos-2-garajes/10159-M3352730
+Appending data ... Data Successfully appended [OK]
+[8/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-modelo-4-habitaciones-3-banos-1-garajes/411-M3742299
+Appending data ... Data Successfully appended [OK]
+[9/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-santos-4-habitaciones-5-banos-4-garajes/12636-M2874168
+Appending data ... Data Successfully appended [OK]
+[10/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-altos-de-parque-3-habitaciones-4-banos-2-garajes/10365-M3613125
+Appending data ... Data Successfully appended [OK]
+[11/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-5-habitaciones-3-banos-4-garajes/12779-M4015974
+Appending data ... Data Successfully appended [OK]
+[12/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-recreo-3-habitaciones-3-banos-1-garajes/15249-M4007681
+Appending data ... Data Successfully appended [OK]
+[13/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-santos-4-habitaciones-4-banos-4-garajes/11069-M3555429
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Metro Cuadrado ... 
+
+60723 Records from <MetroCuadrado>
+34423 Records from other sources
+Total-----------
+95146 Records
+2 codes Duplicated
+60721 codes Stuck
+[0/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-naval-5-habitaciones-5-banos-2-garajes/897-1023025
+Appending data ... Data Successfully appended [OK]
+[1/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-antonio-narino-5-habitaciones-2-banos/835-M3396903
+Appending data ... Data Successfully appended [OK]
+[2/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-bosque-municipal-5-habitaciones-3-banos-1-garajes/10151-M3230316
+Appending data ... Data Successfully appended [OK]
+[3/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-santa-fe-4-habitaciones-2-banos-4-garajes/3229-M2976134
+Appending data ... Data Successfully appended [OK]
+[4/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-la-dignidad-5-habitaciones-3-banos/MC4051631
+Appending data ... Data Successfully appended [OK]
+[5/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-5-habitaciones-3-banos-1-garajes/12779-M4013082
+Appending data ... Data Successfully appended [OK]
+[6/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-4-habitaciones-2-banos-4-garajes/13156-M3334335
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Metro Cuadrado ... 
+
+60723 Records from <MetroCuadrado>
+34423 Records from other sources
+Total-----------
+95146 Records
+2 codes Duplicated
+60721 codes Stuck
+[0/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-naval-5-habitaciones-5-banos-2-garajes/897-1023025
+Appending data ... Data Successfully appended [OK]
+[1/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-antonio-narino-5-habitaciones-2-banos/835-M3396903
+Appending data ... Data Successfully appended [OK]
+[2/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-bosque-municipal-5-habitaciones-3-banos-1-garajes/10151-M3230316
+Appending data ... Data Successfully appended [OK]
+[3/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-santa-fe-4-habitaciones-2-banos-4-garajes/3229-M2976134
+Appending data ... Data Successfully appended [OK]
+[4/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-la-dignidad-5-habitaciones-3-banos/MC4051631
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Metro Cuadrado ... 
+
+60723 Records from <MetroCuadrado>
+34423 Records from other sources
+Total-----------
+95146 Records
+2 codes Duplicated
+60721 codes Stuck
+[0/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-naval-5-habitaciones-5-banos-2-garajes/897-1023025
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Metro Cuadrado ... 
+
+60723 Records from <MetroCuadrado>
+34423 Records from other sources
+Total-----------
+95146 Records
+2 codes Duplicated
+60721 codes Stuck
+[0/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-naval-5-habitaciones-5-banos-2-garajes/897-1023025
+Appending data ... Data Successfully appended [OK]
+[1/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-antonio-narino-5-habitaciones-2-banos/835-M3396903
+Appending data ... Data Successfully appended [FAILURE]
+[2/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-bosque-municipal-5-habitaciones-3-banos-1-garajes/10151-M3230316
+Appending data ... Data Successfully appended [FAILURE]
+[3/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-santa-fe-4-habitaciones-2-banos-4-garajes/3229-M2976134
+Appending data ... Data Successfully appended [OK]
+[4/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-la-dignidad-5-habitaciones-3-banos/MC4051631
+Appending data ... Data Successfully appended [OK]
+[5/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-5-habitaciones-3-banos-1-garajes/12779-M4013082
+Appending data ... Data Successfully appended [OK]
+[6/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-4-habitaciones-2-banos-4-garajes/13156-M3334335
+Appending data ... Data Successfully appended [OK]
+[7/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-4-habitaciones-3-banos-2-garajes/10159-M3352730
+Appending data ... Data Successfully appended [OK]
+[8/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-modelo-4-habitaciones-3-banos-1-garajes/411-M3742299
+Appending data ... Data Successfully appended [OK]
+[9/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-santos-4-habitaciones-5-banos-4-garajes/12636-M2874168
+Appending data ... Data Successfully appended [OK]
+[10/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-altos-de-parque-3-habitaciones-4-banos-2-garajes/10365-M3613125
+Appending data ... Data Successfully appended [OK]
+[11/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-5-habitaciones-3-banos-4-garajes/12779-M4015974
+Appending data ... Data Successfully appended [OK]
+[12/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-recreo-3-habitaciones-3-banos-1-garajes/15249-M4007681
+Appending data ... Data Successfully appended [OK]
+[13/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-santos-4-habitaciones-4-banos-4-garajes/11069-M3555429
+Appending data ... Data Successfully appended [OK]
+[14/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-3-habitaciones-2-banos-2-garajes/12779-M4008556
+Appending data ... Data Successfully appended [OK]
+[15/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-nuevo-horizonte-3-habitaciones-2-banos-1-garajes/12779-M4009334
+Appending data ... Data Successfully appended [OK]
+[16/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-3-habitaciones-3-banos-1-garajes/11069-M3562079
+Appending data ... Data Successfully appended [OK]
+[17/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-campo-alegre-3-habitaciones-3-banos-1-garajes/11069-M3607827
+Appending data ... Data Successfully appended [OK]
+[18/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-bellavista-5-habitaciones-4-banos-2-garajes/10557-M3391885
+Appending data ... Data Successfully appended [OK]
+[19/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-paraiso-3-habitaciones-2-banos-1-garajes/12779-M3984453
+Appending data ... Data Successfully appended [OK]
+[20/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-5-habitaciones-2-banos-4-garajes/12636-M3560850
+Appending data ... Data Successfully appended [OK]
+Starting Scraping : Metro Cuadrado ... 
+
+60723 Records from <MetroCuadrado>
+34423 Records from other sources
+Total-----------
+95146 Records
+2 codes Duplicated
+60721 codes Stuck
+[0/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-naval-5-habitaciones-5-banos-2-garajes/897-1023025
+Appending data ... Data Successfully appended [OK]
+[1/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-antonio-narino-5-habitaciones-2-banos/835-M3396903
+Appending data ... Data Successfully appended [OK]
+[2/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-bosque-municipal-5-habitaciones-3-banos-1-garajes/10151-M3230316
+Appending data ... Data Successfully appended [OK]
+[3/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-santa-fe-4-habitaciones-2-banos-4-garajes/3229-M2976134
+Appending data ... Data Successfully appended [OK]
+[4/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-buenaventura-la-dignidad-5-habitaciones-3-banos/MC4051631
+Appending data ... Data Successfully appended [OK]
+[5/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-5-habitaciones-3-banos-1-garajes/12779-M4013082
+Appending data ... Data Successfully appended [OK]
+[6/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-4-habitaciones-2-banos-4-garajes/13156-M3334335
+Appending data ... Data Successfully appended [OK]
+[7/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-4-habitaciones-3-banos-2-garajes/10159-M3352730
+Appending data ... Data Successfully appended [OK]
+[8/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-modelo-4-habitaciones-3-banos-1-garajes/411-M3742299
+Appending data ... Data Successfully appended [OK]
+[9/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-santos-4-habitaciones-5-banos-4-garajes/12636-M2874168
+Appending data ... Data Successfully appended [OK]
+[10/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-altos-de-parque-3-habitaciones-4-banos-2-garajes/10365-M3613125
+Appending data ... Data Successfully appended [OK]
+[11/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-5-habitaciones-3-banos-4-garajes/12779-M4015974
+Appending data ... Data Successfully appended [OK]
+[12/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-recreo-3-habitaciones-3-banos-1-garajes/15249-M4007681
+Appending data ... Data Successfully appended [OK]
+[13/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-villa-santos-4-habitaciones-4-banos-4-garajes/11069-M3555429
+Appending data ... Data Successfully appended [OK]
+[14/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-3-habitaciones-2-banos-2-garajes/12779-M4008556
+Appending data ... Data Successfully appended [OK]
+[15/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-nuevo-horizonte-3-habitaciones-2-banos-1-garajes/12779-M4009334
+Appending data ... Data Successfully appended [OK]
+[16/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-3-habitaciones-3-banos-1-garajes/11069-M3562079
+Appending data ... Data Successfully appended [OK]
+[17/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-campo-alegre-3-habitaciones-3-banos-1-garajes/11069-M3607827
+Appending data ... Data Successfully appended [OK]
+[18/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-bellavista-5-habitaciones-4-banos-2-garajes/10557-M3391885
+Appending data ... Data Successfully appended [OK]
+[19/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-paraiso-3-habitaciones-2-banos-1-garajes/12779-M3984453
+Appending data ... Data Successfully appended [OK]
+[20/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-tabor-5-habitaciones-2-banos-4-garajes/12636-M3560850
+Appending data ... Data Successfully appended [OK]
+[21/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ciudad-jardin-4-habitaciones-4-banos-1-garajes/13774-M3216866
+Appending data ... Data Successfully appended [OK]
+[22/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-conjunto-residencial-villa-campestre-3-habitaciones-4-banos-2-garajes/13296-M3412306
+Appending data ... Data Successfully appended [OK]
+[23/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-los-alpes-3-habitaciones-2-banos-1-garajes/12779-M4008820
+Appending data ... Data Successfully appended [OK]
+[24/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-silencio-3-habitaciones-3-banos-1-garajes/12779-M3358312
+Appending data ... Data Successfully appended [OK]
+[25/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-del-limon-3-habitaciones-4-banos-2-garajes/11069-M3670317
+Appending data ... Data Successfully appended [OK]
+[26/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-de-riomar-4-habitaciones-4-banos-2-garajes/12779-M3736101
+Appending data ... Data Successfully appended [OK]
+[27/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-conjunto-residencial-villa-campestre-4-habitaciones-3-banos-2-garajes/14162-M3577988
+Appending data ... Data Successfully appended [OK]
+[28/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-nuevo-horizonte-5-habitaciones-5-banos-4-garajes/12779-M2947218
+Appending data ... Data Successfully appended [OK]
+[29/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-balcones-de-villa-campestre-4-habitaciones-5-banos-4-garajes/13296-M3875458
+Appending data ... Data Successfully appended [OK]
+[30/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-balcones-de-villa-campestre-4-habitaciones-5-banos-1-garajes/11069-M4051423
+Appending data ... Data Successfully appended [OK]
+[31/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-san-jose-4-habitaciones-3-banos/12779-M2951411
+Appending data ... Data Successfully appended [OK]
+[32/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-los-alpes-5-habitaciones-5-banos-2-garajes/11069-M2772437
+Appending data ... Data Successfully appended [OK]
+[33/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-del-limon-5-habitaciones-5-banos-2-garajes/15241-M4008516
+Appending data ... Data Successfully appended [OK]
+[34/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-3-habitaciones-4-banos-4-garajes/130-1887
+Appending data ... Data Successfully appended [OK]
+[35/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-riomar-4-habitaciones-5-banos/130-3288
+Appending data ... Data Successfully appended [OK]
+[36/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-1-habitaciones/2969-3488
+Appending data ... Data Successfully appended [OK]
+[37/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-la-campina-1-habitaciones/130-4104
+Appending data ... Data Successfully appended [OK]
+[38/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-altos-del-prado-1-habitaciones-2-garajes/2969-4209
+Appending data ... Data Successfully appended [OK]
+[39/60721] [OK] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-el-poblado-3-habitaciones-3-banos-1-garajes/5410-M3726985
+Appending data ... Data Successfully appended [OK]
+[40/60721] [ERROR] link:https://www.metrocuadrado.com/inmueble/venta-casa-barranquilla-ub.-altos-de-parque-3-habitaciones-5-banos-3-garajes/2398-M3524183 ... Skiped

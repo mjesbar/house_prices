@@ -1,0 +1,19 @@
+{
+    "GroupName": "default",
+    "IpPermissions": [
+        {
+            "FromPort": 3306,
+            "IpProtocol": "tcp",
+            "IpRanges": [
+                {
+                    "CidrIp": "xxx.xx.xx.xxx/32",
+                    "Description": ""
+                }
+            ],
+            "Ipv6Ranges": [],
+            "PrefixListIds": [],
+            "ToPort": 3306,
+            "UserIdGroupPairs": []
+        }
+    ]
+}
