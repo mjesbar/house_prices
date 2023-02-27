@@ -4,7 +4,7 @@ The project is structured as follows:
 
 ![diagram](diagrams/schematic_diagram.png)
 
-## Explaining step by step what the project do
+## Explaining step by step what the project does
 
 *the project is not runnable, it's only for auto-educational purposes, many of the data are fixed and depend on my local machine*
 
